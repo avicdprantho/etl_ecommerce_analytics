@@ -1,0 +1,15 @@
+{
+	"name": "e-com-analytics",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "86c0ecc3-491d-4dd6-b640-4a2852f5da71",
+		"tenantId": "8da096db-ea8a-41c3-8d0f-15274ce63af5"
+	}
+}
